@@ -7,6 +7,9 @@ The progress bar is not included, so you can't see advancement of the download.
 
 YBDI Create automaticly ./Video and ./mp3 folder at root execution of binary. 
 
+## Lasted release
+https://github.com/PA-R29sY2F0bG1hbg/YBDI/releases/tag/05%2F04%2F2021
+
 ## Compilation
 - 1) move Visual Data img at root of YBDI.py
 - 2) user auto-py-to-exe (more easy)
