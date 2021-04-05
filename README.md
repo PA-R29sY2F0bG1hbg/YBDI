@@ -5,6 +5,8 @@ GUI for youtube-dl, can download mp3 and video format.
 Be patient if you download big mp3 or big video.
 The progress bar is not included, so you can't see advancement of the download.
 
+YBDI Create automaticly ./Video and ./mp3 folder at root execution of binary. 
+
 ## Compilation
 - 1) move Visual Data img at root of YBDI.py
 - 2) user auto-py-to-exe (more easy)
