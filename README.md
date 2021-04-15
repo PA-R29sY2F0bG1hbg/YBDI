@@ -11,6 +11,9 @@ YBDI Create automaticly ./Video and ./mp3 folder at root execution of binary.
 - Download Mp3 
 - Download Video
 - Set Exportation Path
+  - Create Folder "Config"
+  - Create File ExportePath.ybdi
+    - ExportePath.ybdi containt user selected path
 - Get Exporation Path
 - By Default Video & mp3 is exported at root of the binary
 
