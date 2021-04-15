@@ -1,4 +1,5 @@
-# YBDI
+# YBDI - Version : 1.2
+
 Youtube-DL Download Interface
 
 GUI for youtube-dl, can download mp3 and video format.
