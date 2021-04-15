@@ -10,6 +10,9 @@ YBDI Create automaticly ./Video and ./mp3 folder at root execution of binary.
 ## Feature
 - Download Mp3 
 - Download Video
+- Download & print miniature img of youtube link
+  - Create Folder "tmp"
+  - Download & format img youtube link (tmp.png)
 - Set Exportation Path
   - Create Folder "Config"
   - Create File ExportePath.ybdi
