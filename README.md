@@ -17,8 +17,7 @@ https://github.com/PA-R29sY2F0bG1hbg/YBDI/releases/tag/05%2F04%2F2021
 - 3) Add in auto-py-to-exe img data    
 
 ## Folder Architecture
-![image](https://user-images.githubusercontent.com/18190054/113581682-c3ee5700-9627-11eb-8e92-8a04d036f102.png)
-
+![image](https://user-images.githubusercontent.com/18190054/114872489-b0e34000-9dfa-11eb-8c2e-9512951183df.png)
 
 ## Download Video
 ![image](https://user-images.githubusercontent.com/18190054/113582062-35c6a080-9628-11eb-8e61-e4e1dd8b3946.png)
