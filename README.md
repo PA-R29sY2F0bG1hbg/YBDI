@@ -7,6 +7,9 @@ Be patient if you download big mp3 or big video.
 The progress bar is not included, so you can't see advancement of the download.
 
 YBDI Create automaticly ./Video and ./mp3 folder at root execution of binary. 
+
+YBDI need Confg folder for work properly if you set custome exportation path
+
 ## Feature
 - Download Mp3 
 - Download Video
