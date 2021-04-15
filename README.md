@@ -7,6 +7,12 @@ Be patient if you download big mp3 or big video.
 The progress bar is not included, so you can't see advancement of the download.
 
 YBDI Create automaticly ./Video and ./mp3 folder at root execution of binary. 
+## Feature
+- Download Mp3 
+- Download Video
+- Set Exportation Path
+- Get Exporation Path
+- By Default Video & mp3 is exported at root of the binary
 
 ## Lasted release
 https://github.com/PA-R29sY2F0bG1hbg/YBDI/releases/tag/05%2F04%2F2021
@@ -18,6 +24,9 @@ https://github.com/PA-R29sY2F0bG1hbg/YBDI/releases/tag/05%2F04%2F2021
 
 ## Folder Architecture
 ![image](https://user-images.githubusercontent.com/18190054/114872489-b0e34000-9dfa-11eb-8c2e-9512951183df.png)
+
+## Tools Menu
+![image](https://user-images.githubusercontent.com/18190054/114872717-dec88480-9dfa-11eb-99bc-45a76df5d0b9.png)
 
 ## Download Video
 ![image](https://user-images.githubusercontent.com/18190054/113582062-35c6a080-9628-11eb-8e61-e4e1dd8b3946.png)
