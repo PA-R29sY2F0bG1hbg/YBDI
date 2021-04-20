@@ -24,7 +24,7 @@ YBDI need Config folder for work properly if you set custome exportation path
 - By Default Video & mp3 is exported at root of the binary
 
 ## Lasted release
-https://github.com/PA-R29sY2F0bG1hbg/YBDI/releases/tag/05%2F04%2F2021
+https://github.com/PA-R29sY2F0bG1hbg/YBDI/releases/tag/15%2F04%2F2021
 
 ## Compilation
 - 1) move Visual Data img at root of YBDI.py
